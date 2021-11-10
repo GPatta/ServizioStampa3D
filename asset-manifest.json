@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ServizioStampa3D/static/css/main.2a469dd9.chunk.css",
-    "main.js": "/ServizioStampa3D/static/js/main.7dea16c8.chunk.js",
-    "main.js.map": "/ServizioStampa3D/static/js/main.7dea16c8.chunk.js.map",
+    "main.js": "/ServizioStampa3D/static/js/main.3cfd01a6.chunk.js",
+    "main.js.map": "/ServizioStampa3D/static/js/main.3cfd01a6.chunk.js.map",
     "runtime-main.js": "/ServizioStampa3D/static/js/runtime-main.776f532c.js",
     "runtime-main.js.map": "/ServizioStampa3D/static/js/runtime-main.776f532c.js.map",
     "static/js/2.beb4c058.chunk.js": "/ServizioStampa3D/static/js/2.beb4c058.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.776f532c.js",
     "static/js/2.beb4c058.chunk.js",
     "static/css/main.2a469dd9.chunk.css",
-    "static/js/main.7dea16c8.chunk.js"
+    "static/js/main.3cfd01a6.chunk.js"
   ]
 }
