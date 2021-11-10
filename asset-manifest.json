@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ServizioStampa3D/static/css/main.1f486e95.chunk.css",
-    "main.js": "/ServizioStampa3D/static/js/main.eb990bb1.chunk.js",
-    "main.js.map": "/ServizioStampa3D/static/js/main.eb990bb1.chunk.js.map",
+    "main.css": "/ServizioStampa3D/static/css/main.2a469dd9.chunk.css",
+    "main.js": "/ServizioStampa3D/static/js/main.7dea16c8.chunk.js",
+    "main.js.map": "/ServizioStampa3D/static/js/main.7dea16c8.chunk.js.map",
     "runtime-main.js": "/ServizioStampa3D/static/js/runtime-main.776f532c.js",
     "runtime-main.js.map": "/ServizioStampa3D/static/js/runtime-main.776f532c.js.map",
     "static/js/2.beb4c058.chunk.js": "/ServizioStampa3D/static/js/2.beb4c058.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.64ac967a.chunk.js": "/ServizioStampa3D/static/js/3.64ac967a.chunk.js",
     "static/js/3.64ac967a.chunk.js.map": "/ServizioStampa3D/static/js/3.64ac967a.chunk.js.map",
     "index.html": "/ServizioStampa3D/index.html",
-    "static/css/main.1f486e95.chunk.css.map": "/ServizioStampa3D/static/css/main.1f486e95.chunk.css.map",
+    "static/css/main.2a469dd9.chunk.css.map": "/ServizioStampa3D/static/css/main.2a469dd9.chunk.css.map",
     "static/js/2.beb4c058.chunk.js.LICENSE.txt": "/ServizioStampa3D/static/js/2.beb4c058.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.776f532c.js",
     "static/js/2.beb4c058.chunk.js",
-    "static/css/main.1f486e95.chunk.css",
-    "static/js/main.eb990bb1.chunk.js"
+    "static/css/main.2a469dd9.chunk.css",
+    "static/js/main.7dea16c8.chunk.js"
   ]
 }
